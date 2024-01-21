@@ -1,9 +1,9 @@
-##compile:
+## compile:
 ```
     g++ main.cpp stack.cpp -o stacks.exe
 ```
 
-##run:
+## run:
 ```
     ./stacks.exe
 ```
